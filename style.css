@@ -4,6 +4,7 @@ body{
     font-family: sans-serif; 
 }
 
+
 /*######################Header CSS########################*/
 #header{
     height: 100vh; 
@@ -348,6 +349,7 @@ section div nav .navbar .navbar-expand-lg{
     position: sticky;
     z-index: 1; 
     widows: 80px;
+    width: fit-content;
 }
 
 .social-icons ul{
